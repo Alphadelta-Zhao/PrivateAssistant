@@ -5,7 +5,7 @@ mayneed
 test
 dist
 lib
-
+package-lock.json
 
 # local env files
 .env.local
